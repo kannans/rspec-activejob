@@ -1,4 +1,5 @@
 require File.expand_path('../lib/rspec/active_job/version', __FILE__)
+require 'date'
 
 Gem::Specification.new do |s|
   s.name = 'rspec-activejob'
